@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fusion-bizarre-pregnant-harris.trycloudflare.com/vnc.html
+URL       : https://hay-strategic-diy-railroad.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-21 07:28:21
+Created   : 2026-07-21 11:43:04
 =======================================================
