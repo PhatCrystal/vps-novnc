@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://grown-tuition-relation-wit.trycloudflare.com/vnc.html
+URL       : https://wash-auto-managed-containing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-23 16:19:45
+Created   : 2026-07-23 20:50:51
 =======================================================
