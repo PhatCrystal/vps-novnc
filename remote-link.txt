@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://green-county-seasons-burton.trycloudflare.com/vnc.html
+URL       : https://connecticut-self-legitimate-element.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-28 07:31:54
+Created   : 2026-07-28 11:51:45
 =======================================================
