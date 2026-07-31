@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://voices-permanent-easy-pursue.trycloudflare.com/vnc.html
+URL       : https://run-disco-candy-cage.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-31 01:25:52
+Created   : 2026-07-31 07:45:08
 =======================================================
