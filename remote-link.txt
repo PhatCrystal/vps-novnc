@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://faqs-available-custom-nearby.trycloudflare.com/vnc.html
+URL       : https://debut-intersection-time-visit.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 07:23:43
+Created   : 2026-08-01 11:10:48
 =======================================================
