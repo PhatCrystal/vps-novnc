@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://prepare-followed-afterwards-ntsc.trycloudflare.com/vnc.html
+URL       : https://committees-wishes-drink-similarly.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 07:31:11
+Created   : 2026-08-04 11:55:24
 =======================================================
