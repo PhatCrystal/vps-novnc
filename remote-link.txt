@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pcs-defined-couples-provision.trycloudflare.com/vnc.html
+URL       : https://allan-announcement-las-classic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 10:42:25
+Created   : 2026-08-07 15:44:22
 =======================================================
