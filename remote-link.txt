@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://talked-changed-western-rod.trycloudflare.com/vnc.html
+URL       : https://colorado-technological-boxed-nearest.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-10 00:45:42
+Created   : 2026-08-10 06:08:00
 =======================================================
