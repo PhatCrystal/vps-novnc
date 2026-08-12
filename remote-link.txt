@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://would-semiconductor-indie-removal.trycloudflare.com/vnc.html
+URL       : https://fathers-nav-vermont-telescope.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 00:52:37
+Created   : 2026-08-12 06:08:37
 =======================================================
