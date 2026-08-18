@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://basically-retrieve-linear-minimize.trycloudflare.com/vnc.html
+URL       : https://titans-dried-hypothetical-ing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 05:20:00
+Created   : 2026-08-18 10:17:58
 =======================================================
