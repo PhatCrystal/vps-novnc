@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://trout-bag-programmer-observed.trycloudflare.com/vnc.html
+URL       : https://chancellor-recipes-downtown-agree.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-25 10:20:57
+Created   : 2026-08-25 15:33:43
 =======================================================
