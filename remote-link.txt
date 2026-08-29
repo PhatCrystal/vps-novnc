@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dispatched-borough-activity-true.trycloudflare.com/vnc.html
+URL       : https://proxy-highest-chat-tar.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-28 21:03:09
+Created   : 2026-08-29 04:28:24
 =======================================================
