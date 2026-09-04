@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://attach-personalized-tariff-buffalo.trycloudflare.com/vnc.html
+URL       : https://buys-adopted-cooperation-east.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-04 01:34:40
+Created   : 2026-09-04 09:11:18
 =======================================================
