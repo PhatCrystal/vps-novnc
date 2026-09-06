@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://primary-guy-king-aaron.trycloudflare.com/vnc.html
+URL       : https://tue-incl-arrived-provided.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-06 01:30:51
+Created   : 2026-09-06 09:02:06
 =======================================================
