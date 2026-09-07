@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://muscles-andrea-flip-org.trycloudflare.com/vnc.html
+URL       : https://alfred-combat-statement-timely.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-06 21:49:41
+Created   : 2026-09-07 01:29:32
 =======================================================
