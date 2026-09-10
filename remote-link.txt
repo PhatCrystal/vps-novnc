@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://oval-ones-relax-pipes.trycloudflare.com/vnc.html
+URL       : https://enough-strategy-approaches-smell.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-10 17:58:12
+Created   : 2026-09-10 22:03:31
 =======================================================
