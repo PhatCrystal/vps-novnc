@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hold-mandate-higher-cam.trycloudflare.com/vnc.html
+URL       : https://richards-alternate-tobacco-adjustable.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-18 13:58:17
+Created   : 2026-09-18 17:58:55
 =======================================================
