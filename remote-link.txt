@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://promotion-jenny-districts-fog.trycloudflare.com/vnc.html
+URL       : https://salt-talks-warriors-institution.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-19 01:51:14
+Created   : 2026-09-19 09:04:10
 =======================================================
